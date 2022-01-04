@@ -40,3 +40,13 @@ a{
 p{
     font-size: 20px;
 }
+.exp-last{
+    display: flex;
+}
+footer{
+    color: goldenrod;
+    text-align: center;
+    font-size: 20px;
+    background-color: black;
+    padding: 10px;
+}
